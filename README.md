@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kholilsc
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning Javascript
-- <a href="facebook.com">facebook</a>
+- <a href="https://www.facebook.com">facebook</a>
 <!--
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
